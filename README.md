@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Pranjal.
+- 👀 I’m interested in the field of Computer Vision.
+- 🌱 I’m currently working as a Machine Learning Engineer based in Kathmandu.
+- 💞️ I’m looking to collaborate on any projects focused on Machine Learning. Primarily focused on Computer Vision, but I welcome the opportunity to work in different other technologies.
+- 📫 How to reach me @thepghimire on twitter/linkedin/facebook or -> thepghimire@gmail.com 
